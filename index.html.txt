@@ -1,1 +1,25 @@
-hii
+</!DOCTYPE HTML>
+<HTML>
+	<HEAD>
+		<title>
+			Welcom ||
+		</title>
+	</head>
+	<body>
+		<img src="WIN_20190402_14_58_19_Pro.jpg" width="25%">
+		<h1>vishnu</h1>
+		<h2>varun</h2>
+		Ordered list
+		<ol> 
+			<li>shopping</li>
+			<li>cjsc</li>
+		</ol>
+		un ordered
+		<ul>
+			<li>hkasbfca</li>
+			<li>ahbcjabcjl</li>
+			<li>aljbclandc</li>
+		</ul>
+
+	</body>
+</html>
